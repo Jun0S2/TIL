@@ -24,7 +24,7 @@ vue2와 같은 환경으로 설정해주었다.
 1. 생성하기
 
 ```shell
-npm create-react-app project
+npx create-react-app project
 ```
 
 2. 실행하기
