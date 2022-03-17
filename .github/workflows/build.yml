@@ -1,5 +1,4 @@
-- name: TIL Auto-Format README
-  uses: cflynn07/github-action-til-autoformat-readme@1.2.0
+name: Build README
 on:
   push:
     branches:
@@ -20,5 +19,6 @@ jobs:
         with:
           description: |
             📖 Today I learned 📖
+
           list_most_recent: 2 # optional, lists most recent TILS below description
           date_format: "2020 Jan 15:04" # optional, must align to https://golang.org/pkg/time/#Time.Format
