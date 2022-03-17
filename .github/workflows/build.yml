@@ -15,7 +15,7 @@ jobs:
           # necessary for github-action-til-autoformat-readme
           fetch-depth: 0
       - name: Autoformat README
-        uses: Jun0S2/TIL
+        uses: Jun0S2/TILe@1.2.0
         with:
           description: |
             📖 Today I learned 📖
