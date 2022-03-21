@@ -35,3 +35,23 @@ npm start
 
 실행 완료!
 ![react](https://im5.ezgif.com/tmp/ezgif-5-f631f01a4c.gif)
+
+### 플러그인
+
+`ES7 React/Redux/GraphQL/React-Native snippets` 플러그인을 설치하면, `rfc`+`enter` 로 기본 리액트 탬플릿을 쉽게 설치할 수 있다.
+
+### 라이브러리
+
+#### uuid
+
+랜덤 아이디를 생성해준다
+
+```shell
+npm i uuid
+```
+
+```js
+import { v4 as uuidv4 } from "uuid";
+...생략
+ id: uuidv4()
+```
