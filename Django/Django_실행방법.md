@@ -24,7 +24,7 @@ python -m pip install sklearn
 
 # 실행 완료
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/9d4bcd70-719f-47ed-82c9-6ebc7bd24f13/Untitled.png)
+![image](https://user-images.githubusercontent.com/36508552/161792081-ee626a28-658d-4053-a4fc-fd0e092100ed.png)
 
 ---
 
