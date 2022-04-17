@@ -3,8 +3,7 @@ CSS에 `white-space : pre-line` 속성만 추가했더니 괜찮아졌다.
 
 ## 추가 전 : 
 
-![image](https://user-images.githubusercontent.com/36508552/163718947-b5f9fb87-0999-4fd8-b265-e86c94060cc6.png)
+![image](https://im3.ezgif.com/tmp/ezgif-3-16f31a77c9.gif)
 
 ## 추가 후 :
-
-![image](https://user-images.githubusercontent.com/36508552/163718982-ab34c18c-d96e-46b8-a0ad-e5a6786df945.png)
+![image](https://im3.ezgif.com/tmp/ezgif-3-2f15b13cc3.gif)
